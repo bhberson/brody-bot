@@ -1,6 +1,6 @@
 # BrodyBot
 
-A simple chat bot that is built on [jw84/messenger-bot-tutorial](https://github.com/jw84/messenger-bot-tutorial).
+A simple chat bot that is built on [wit-ai/node-wit](https://github.com/wit-ai/node-wit).
 
 
 ## Teach Your Bot To Talk
