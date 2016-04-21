@@ -1,0 +1,21 @@
+{
+	"HELLO":"Hello ${name}!",
+	"HEY":"Hey ${name}! What's up?",
+	"HELP":"Hey ${name}. If you're having problems, you can list out all my commands with LIST",
+	"TWITTER":"Brody's personal Twitter account is http://twitter.com/brody_berson",
+	"LINKEDIN":"%[LinkedIn](http://www.linkedin.com/in/brodyharrisberson)",
+	"GITHUB":"His GitHub account is https://www.github.com/bhberson, checkout his PizzaDash repo that made him an 'American Hero' ;) (according to Gizmodo)",
+	"FACEBOOK":"Add him as a friend at http://www.facebook.com/brody.harris.berson",
+	"INSTAGRAM":"Check out his photography chops at https://instagram.com/brody_berson",
+	"BLOG":"Brody has some of his own original thoughts... You can see them on his Medium account https://medium.com/@brody_berson",
+	"MEDIUM":"Check out his PizzaDash article! https://medium.com/@brody_berson",
+	"MUSIC":"Brody really loves music quite a bit, see what he's been listening to on Spotify https://open.spotify.com/user/1213869178",
+	"SPOTIFY":"Looking for what Brody has been listening too? https://open.spotify.com/user/1213869178",
+	"BEHANCE":"Brody's Behance page is a little lacking... but check it out at https://www.behance.com/bhberson",
+	"DRIBBBLE":"Did you know that Brody was originally a graphic design student before transferring to Computer Science? Check out his Dribbble here: https://www.dribbble.com/bhberson",
+	"RESUME":"Brody made his own website as his résumé that you can view at: https://brodyberson.com or to download a PDF just type PDF or DOWNLOAD",
+	"PDF":"https://brodyberson.com/img/BrodyBersonResume.pdf",
+	"DOWNLOAD":"https://brodyberson.com/img/BrodyBersonResume.pdf",
+	"SECRET":"Shhhh... there a bunch of hidden words, start spittin' them at me!",
+	"LIST":"HELP, TWITTER, LINKEDIN, GITHUB, FACEBOOK, INSTAGRAM, BLOG, MEDIUM, SPOTIFY, BEHANCE, DRIBBBLE, RESUME, DOWNLOAD, SECRET"
+}
